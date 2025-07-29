@@ -1,6 +1,6 @@
 # 💌 Smile Generator – A Wholesome Compliment App
 
-**Smile Generator** is a cozy desktop app that delivers heartfelt compliments to brighten your day. Whether you're coding, studying, or just need a pick-me-up, this app is here to remind you that *you are amazing* 💖
+**Smile Generator** is a cozy desktop app that delivers heartfelt compliments to brighten your day. Whether you're coding, studying, or just need a pick-me-up, this app is here to remind you that *you are amazing* 💖Built with ❤️ using `tkinter`, `pyttsx3`, and `plyer`.
 
 ---
 
