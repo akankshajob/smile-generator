@@ -14,3 +14,41 @@
 - 💻 Works offline, cross-platform ready
 
 ---
+## 🛠️ How to Run
+
+```bash
+# Clone the repository
+git clone https://github.com/akankshajob/smile-generator.git
+cd smile-generator
+
+# Install required packages
+pip install pyttsx3 plyer
+
+# Run the app
+python compliment_me.py
+
+```
+
+---
+
+## 📂 Project Structure
+
+```
+smile-generator/
+├── compliment_me.py      # Main script with GUI, TTS, notifications
+├── README.md             # This file
+
+```
+
+---
+
+## 🧠 Future Ideas
+
+- Schedule daily compliments
+- Add dark mode toggle
+- Use AI (like OpenAI) to create custom compliments
+- Share compliments as image cards or tweets
+
+---
+
+## ✨ Made with love by [@akankshajob](https://github.com/akankshajob)
