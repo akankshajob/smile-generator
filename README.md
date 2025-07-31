@@ -51,4 +51,4 @@ smile-generator/
 
 ---
 
-## ✨ Made with love by [@akankshajob](https://github.com/akankshajob)
+
